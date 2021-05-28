@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+ g++ main.cpp helpers.cpp draw.cpp updaters.cpp -o world.out -lglut -lGLU -lGL -lSOIL -lGLEW
+ 
+ ./world.out

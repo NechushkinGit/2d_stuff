@@ -1,0 +1,59 @@
+{
+    "_id": ObjectId("5dcde00af4b48735c1fd440f"),
+    "created_at": ISODate("2019-11-14T23:15:22.427Z"),
+    "footer_script": {
+        "plain": ""
+    },
+    "body_script": {
+        "plain": ""
+    },
+    "head_script": {
+        "plain": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-69745028-8\"></script>\n<script>\n window.dataLayer = window.dataLayer || [];\n function gtag(){dataLayer.push(arguments);}\n gtag('js', new Date());\n\n gtag('config', 'UA-69745028-8');\n</script>\n"
+    },
+    "pages": [
+        {
+            "title": "IMPORTANT DISCLAIMER",
+            "url": "disclaimer",
+            "article": "<p style=\"text-align:start;\"><span style=\"color: rgba(0,0,0,0.65);background-color: rgb(255,255,255);font-size: 14px;font-family: DIN2014, sans-serif;\">All content provided herein our website is for your general information only, procured primarily from third party sources. We make no warranties of any kind in relation to our content and services, including but not limited to accuracy, security and updatedness. Any use on our content and services is solely at your own risk and discretion. You should conduct your own research and verify our content and services before relying on or using them. </span>&nbsp;</p>\n<p style=\"text-align:start;\"><span style=\"color: rgba(0,0,0,0.65);background-color: rgb(255,255,255);font-size: 14px;font-family: DIN2014, sans-serif;\">No part of the content and services that we provide constitutes financial advice, legal advice or any other form of advice meant for your specific reliance for any purpose. Trading is a highly risky activity that can lead to major losses, please therefore consult your financial advisor before making any decision. </span>&nbsp;</p>\n",
+            "id": 3
+        }
+    ],
+    "slim_links": [
+        {
+            "title": "Contact",
+            "url": "mailto:contact@moondb.com",
+            "order": "3",
+            "id": 3
+        },
+        {
+            "title": "Disclaimer",
+            "url": "/p/disclaimer",
+            "order": 0,
+            "id": 4
+        }
+    ],
+    "social_links": [
+        {
+            "id": 1,
+            "order": "1",
+            "url": "https://twitter.com/moondbcom",
+            "title": "Twitter"
+        }
+    ],
+    "links": [
+        {
+            "title": "Contact",
+            "url": "mailto:contact@moondb.com",
+            "order": 0,
+            "id": 1
+        },
+        {
+            "title": "Disclaimer",
+            "url": "/p/disclaimer",
+            "order": 0,
+            "id": 2
+        }
+    ],
+    "__v": 0,
+    "updated_at": ISODate("2021-04-02T09:07:55.360Z")
+}

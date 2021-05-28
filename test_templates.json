@@ -1,0 +1,17 @@
+{
+    "_id": ObjectId("5e84c947331a6b548cba1b1f"),
+    "market": {
+        "metatitle": "{{coinname}} - {{market}} {{exchangename}} chart ⇒ {{price}} | moonDB",
+        "metadescription": "llll➤ Live candlestick chart for {{market}} on {{exchangename}} ✚✚✚ Real orderbook ✅ Drawing tools, and more."
+    },
+    "coin": {
+        "metatitle": "{{coinname}} price, info and charts ⇒ {{currentmonth}} {{currentyear}} | moonDB",
+        "metadescription": "llll➤ {{numberofmarkets}} markets and {{numberofexchanges}} exchanges ✚✚✚ Candlestick charts ✅ Marketcap, information, links, and news."
+    },
+    "home": {
+        "metatitle": "Cryptocurrency Charts and Stats ⇒ MoonDB.com",
+        "metadescription": "MoonDB ⇒ The best cryptocurrencies charts and information ✅ Candlesticks, marketcap, drawing tools and more ✅ The new Bitcoinwisdom"
+    },
+    "created_at": ISODate("2020-04-01T17:03:03.390Z"),
+    "__v": 0
+}
